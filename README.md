@@ -78,3 +78,5 @@ https://remix.ethereum.org/
 
 10. Change to other account so anyone can set up a voting system through the same smart contract.
     ![anyone](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/change-account-if-another-user-want-to-create-another-proposal.png)
+
+11. Input candidates in addCandidates button
