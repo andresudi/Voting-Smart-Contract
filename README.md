@@ -20,4 +20,10 @@ system.
 Remix IDE 
 https://remix.ethereum.org/
 ```
-=
+## How To Deploy
+
+1. Compile the code 
+    ![compile](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/compile.png)
+
+2. Deploy the code from Remix IDE
+    ![deploy](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/deploy.png)
