@@ -25,5 +25,19 @@ https://remix.ethereum.org/
 1. Compile the code 
     ![compile](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/compile.png)
 
-2. Deploy the code from Remix IDE
+2. Select the smart contract owner address
+    ![select owner](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/select-owner-address.png)
+
+3. Input candidates in Deploy button and then pressed Deploy
+    ```
+    The owner of the contract can input one or more choices to be voted by people.
+    ```
     ![deploy](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/deploy.png)
+
+## How To Test 
+
+1. After deploy the smart contract pressed startVote button 
+    ```
+    The owner of the contract can specify the start time and end time for the voting period.
+    ```
+    ![startVote](https://github.com/andresudi/Voting-Smart-Contract/blob/master/assets/owner-pressed-startvote.png)
