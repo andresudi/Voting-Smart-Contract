@@ -5,7 +5,7 @@ system can ensure transparent and publicly verifiable elections in the country. 
 successfully, voting can be done using a mobile application that is attached to a blockchain
 system.
 
-## Feature
+## Features
 ```
 ● The owner of the contract can input one or more choices to be voted by people.
 ● The owner of the contract can specify the start time and end time for the voting period.
